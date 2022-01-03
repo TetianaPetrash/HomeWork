@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\VS2019\\HW6_Generic\\HW6_Generic\\HW6_Generic.csproj": {}
+    "D:\\Repo\\Gitrepos\\HW6\\HW6_Generic.csproj": {}
   },
   "projects": {
-    "D:\\VS2019\\HW6_Generic\\HW6_Generic\\HW6_Generic.csproj": {
+    "D:\\Repo\\Gitrepos\\HW6\\HW6_Generic.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\VS2019\\HW6_Generic\\HW6_Generic\\HW6_Generic.csproj",
+        "projectUniqueName": "D:\\Repo\\Gitrepos\\HW6\\HW6_Generic.csproj",
         "projectName": "HW6_Generic",
-        "projectPath": "D:\\VS2019\\HW6_Generic\\HW6_Generic\\HW6_Generic.csproj",
+        "projectPath": "D:\\Repo\\Gitrepos\\HW6\\HW6_Generic.csproj",
         "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-        "outputPath": "D:\\VS2019\\HW6_Generic\\HW6_Generic\\obj\\",
+        "outputPath": "D:\\Repo\\Gitrepos\\HW6\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config",
