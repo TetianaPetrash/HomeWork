@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "D2g9eGV0oL0QGdVyyHe1+5TTm+0dbM1n6r3PSXwLTIJAzaYT5NKmBj+ppeYEJSW0Yhpod51Jnc/7q5+ftz582Q==",
+  "success": true,
+  "projectFilePath": "D:\\VS2019\\HW6_Generic\\HW6_Generic\\HW6_Generic.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\user\\.nuget\\packages\\gembox.spreadsheet\\47.0.1345\\gembox.spreadsheet.47.0.1345.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\portable.bouncycastle\\1.8.9\\portable.bouncycastle.1.8.9.nupkg.sha512"
+  ],
+  "logs": []
+}
